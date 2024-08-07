@@ -1,3 +1,7 @@
+- Ejecutar el comando: `LagartoCommand` que se encuentra en `app/Console/Commands/`.
+- Agregar el argumento, en este caso el archivo de entrada que se localiza en `resources/entrada_lagarto/input.txt`.
+- Ejemplo: `php artisan app:lagarto resources/entrada_lagarto/input.txt`.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
